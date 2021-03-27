@@ -4,6 +4,12 @@ body {
 .site-logo {
   float: left;
 }
+.site-logo {
+  padding: 12px 18px;
+  width: 100px;
+  vertical-align: middle;
+  border-right: 1px solid;
+}
 .nav-bar {
   background-color: rgb(27, 183, 255);
   overflow: hidden;
