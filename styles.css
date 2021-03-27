@@ -1,12 +1,12 @@
 body {
   background-color: lightgray;
 }
-.nav-bar ul{
+.nav-bar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-.nav-bar li a{
+.nav-bar li a {
   display: block;
   text-decoration: none;
   width: 15%;
@@ -15,11 +15,11 @@ body {
   font-size: 1.2em;
   padding: 8px 16px;
 }
-.nav-bar li a:hover{
+.nav-bar li a:hover {
   background-color: lightblue;
   color: black;
 }
-.active{
+.active {
   background-color: lightblue;
   color: black;
 }
